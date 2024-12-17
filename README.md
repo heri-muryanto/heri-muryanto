@@ -13,6 +13,7 @@ Jaspersoft ndak ketinggalan, biar tampilan laporan menjadi lebih mudah dicustom
 PHP, ini makanan sekaligus lauk pauk nya :) karena pasti harus membuat applikasi penyangga, pendukung, atau bahkan ndak nyambung sama sekali
 
 Android studio, bisa buat keren-kerenan, yang penting bisa dipakai, perkara belum tertib, ini urusan pengguna sama pengawas
+
 Python, luar biasa, sepertinya ini akan merubah banyak ritme pertandingan berikutnya, auto, deep learning, NSL ... Aseeeeeeek 
 
 Bridging, mengajarkan bagaimana kita harus menerima sistem orang lain agar bisa nyambung dengan yang ada
