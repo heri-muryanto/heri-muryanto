@@ -38,6 +38,8 @@ Heri Muryanto
 
 Siap diajak ngopi atau dikirimi kopi :)
 
+http://lynk.id/payme/masaho
+
 <!---
 heri-muryanto/heri-muryanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
