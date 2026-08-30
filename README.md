@@ -36,9 +36,10 @@ Yakini, yang terjadi adalah yang terbaik, cuman kitanya aja yang belum tahu hikm
 Heri Muryanto
 +62 81 23 30 sedoso 9 delapan seven
 
+
 Siap diajak ngopi atau dikirimi kopi :)
 
-http://lynk.id/payme/masaho
+(https://teer.id/akupengusaha)
 
 <!---
 heri-muryanto/heri-muryanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
